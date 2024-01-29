@@ -1,0 +1,46 @@
+[
+    {
+        "id" : 1,
+        "src" : "images/jenkins.jpg",
+        "caption" : "Jenkins Essential Training - Linkedin Learning"
+    },
+    {
+        "id" : 2,
+        "src" : "images/pythonUdemy.jpg",
+        "caption" : "Python Programming - Udemy"
+    },
+    {
+        "id" : 3,
+        "src" : "images/sqlHackerRank.jpg",
+        "caption" : "Sql HackerRank Skill Verification Test"
+    },
+    {
+        "id" : 4,
+        "src" : "images/hackathon.jpg",
+        "caption" : "Hackathon Participation"
+    },
+    {
+        "id" : 5,
+        "src" : "images/javaHackerRank.jpg",
+        "caption" : "Java HackerRank Skill Verification Test"
+    },
+    
+    {
+        "id" : 6,
+        "src" : "images/pythonEdx.jpg",
+        "caption" : "Python for Data Science - edX"
+    },
+    {
+        "id" : 7,
+        "src" : "images/reactEdx.jpg",
+        "caption" : "Developing Cloud Application using Reactjs and Nodejs - edX "
+    },
+    
+    {
+        "id" : 8,
+        "src" : "images/AiChatBotEdx.jpg",
+        "caption" : "AI Chat Bot without Programming - edX"
+    }
+   
+
+]
